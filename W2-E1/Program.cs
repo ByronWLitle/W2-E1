@@ -10,7 +10,7 @@ namespace Exercise1
     {
         static void Main(string[] args)
         {
-            //Initialize variables
+            //Initialize variables to hold values
             double grade = 0.0;
             int roundGrade = 0;
             //Prompts user to give grade percentage
